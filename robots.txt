@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hofawubimeko.pages.dev/sitemap.xml
